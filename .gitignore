@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.yarn/*
+!.yarn/releases
+!.yarn/patches
+.pnp.*
+*.local
+.env
+.env.*
+coverage/
+
+# Local-only docs and tooling (kept on disk, never committed)
+*.md
+!README.md
+!docs/nexora-briefing.md
+docs/*.html
+.claude/
+.DS_Store

@@ -1,0 +1,8 @@
+{
+  "pipeline": {
+    "title": "Pipeline",
+    "dragToMove": "Drag to move between stages",
+    "emptyStage": "No deals in this stage",
+    "dropHere": "Drop deal here"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Companies",
+  "addCompany": "Add Company",
+  "editCompany": "Edit Company",
+  "industry": {
+    "technology": "Technology",
+    "finance": "Finance",
+    "healthcare": "Healthcare",
+    "manufacturing": "Manufacturing",
+    "retail": "Retail",
+    "education": "Education",
+    "other": "Other"
+  },
+  "size": {
+    "startup": "Startup",
+    "small": "Small",
+    "medium": "Medium",
+    "enterprise": "Enterprise"
+  }
+}

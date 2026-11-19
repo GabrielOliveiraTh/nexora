@@ -1,0 +1,9 @@
+commit_msg=$(cat "$1")
+
+pattern="^(STORY-[0-9]+|NOSTORY): .+"
+
+if ! echo "$commit_msg" | grep -qE "$pattern"; then
+  echo "ERROR: Commit message must match: STORY-1234: Description or NOSTORY: Description"
+  echo "Got: $commit_msg"
+  exit 1
+fi

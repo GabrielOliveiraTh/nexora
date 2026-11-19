@@ -1,0 +1,33 @@
+{
+  "title": "Deals",
+  "addDeal": "Add Deal",
+  "editDeal": "Edit Deal",
+  "dealDetails": "Deal Details",
+  "pipelineView": "Pipeline View",
+  "listView": "List View",
+  "deleteConfirm": "Are you sure you want to delete this deal?",
+  "totalValue": "Total Pipeline Value",
+  "weightedValue": "Weighted Value",
+  "stage": {
+    "prospecting": "Prospecting",
+    "qualification": "Qualification",
+    "proposal": "Proposal",
+    "negotiation": "Negotiation",
+    "closed_won": "Closed Won",
+    "closed_lost": "Closed Lost"
+  },
+  "priority": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "critical": "Critical"
+  },
+  "notification": {
+    "created": "Deal created successfully",
+    "updated": "Deal updated successfully",
+    "stageChanged": "Deal moved to {{stage}}",
+    "deleted": "Deal deleted successfully"
+  },
+  "dealsCount_one": "{{count}} deal",
+  "dealsCount_other": "{{count}} deals"
+}

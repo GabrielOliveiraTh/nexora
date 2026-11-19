@@ -1,0 +1,40 @@
+{
+  "appName": "Nexora",
+  "loading": "Loading...",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "create": "Create",
+  "search": "Search",
+  "filter": "Filter",
+  "export": "Export",
+  "import": "Import",
+  "confirm": "Confirm",
+  "back": "Back",
+  "noData": "No data available",
+  "lockedByAnotherUser": "This record is being edited by another user",
+  "actions": "Actions",
+  "status": "Status",
+  "createdAt": "Created at",
+  "updatedAt": "Updated at",
+  "owner": "Owner",
+  "tags": "Tags",
+  "notes": "Notes",
+  "placeholder": {
+    "type": "Type {{property}}",
+    "select": "Select {{property}}"
+  },
+  "pagination": {
+    "total": "{{total}} items",
+    "showing": "Showing {{from}} to {{to}} of {{total}}"
+  },
+  "notifications": "Notifications",
+  "markAllAsRead": "Mark all as read",
+  "selectedCount": "{{count}} selected",
+  "lockAcquireFailed": "Could not lock this record for editing. It is read-only for now, try again later.",
+  "validationFailed": "Please fix the highlighted fields",
+  "clearFilters": "Clear filters",
+  "noResults": "No results found",
+  "any": "Any"
+}

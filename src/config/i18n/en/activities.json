@@ -1,0 +1,18 @@
+{
+  "title": "Activities",
+  "addActivity": "Add Activity",
+  "editActivity": "Edit Activity",
+  "complete": "Mark Complete",
+  "type": {
+    "call": "Call",
+    "email": "Email",
+    "meeting": "Meeting",
+    "note": "Note",
+    "task": "Task"
+  },
+  "status": {
+    "pending": "Pending",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  }
+}

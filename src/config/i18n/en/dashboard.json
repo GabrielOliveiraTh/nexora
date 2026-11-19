@@ -1,0 +1,10 @@
+{
+  "title": "Dashboard",
+  "totalContacts": "Total Contacts",
+  "totalDeals": "Total Deals",
+  "pipelineValue": "Pipeline Value",
+  "activitiesDue": "Activities Due",
+  "recentActivity": "Recent Activity",
+  "dealsByStage": "Deals by Stage",
+  "topDeals": "Top Deals"
+}

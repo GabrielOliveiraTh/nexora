@@ -1,0 +1,30 @@
+{
+  "title": "Contacts",
+  "addContact": "Add Contact",
+  "editContact": "Edit Contact",
+  "contactDetails": "Contact Details",
+  "deleteConfirm": "Are you sure you want to delete this contact?",
+  "bulkDeleteConfirm": "Are you sure you want to delete {{count}} contacts?",
+  "exportContacts": "Export Contacts",
+  "status": {
+    "lead": "Lead",
+    "qualified": "Qualified",
+    "customer": "Customer",
+    "churned": "Churned"
+  },
+  "source": {
+    "website": "Website",
+    "referral": "Referral",
+    "linkedin": "LinkedIn",
+    "cold_call": "Cold Call",
+    "event": "Event",
+    "other": "Other"
+  },
+  "notification": {
+    "created": "Contact created successfully",
+    "updated": "Contact updated successfully",
+    "deleted": "Contact deleted successfully",
+    "bulkDeleted": "{{count}} contacts deleted"
+  },
+  "exportFailed": "Could not export contacts"
+}

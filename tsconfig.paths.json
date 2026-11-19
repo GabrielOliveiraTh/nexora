@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@atoms/*": ["src/components/atoms/*"],
+      "@molecules/*": ["src/components/molecules/*"],
+      "@organisms/*": ["src/components/organisms/*"],
+      "@containers/*": ["src/containers/*"],
+      "@pages/*": ["src/pages/*"],
+      "@redux/*": ["src/redux/*"],
+      "@services/*": ["src/services/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@context/*": ["src/context/*"],
+      "@models/*": ["src/models/*"],
+      "@validators/*": ["src/validators/*"],
+      "@assemblers/*": ["src/assemblers/*"],
+      "@helpers/*": ["src/helpers/*"],
+      "@appTypes/*": ["src/types/*"],
+      "@config/*": ["src/config/*"],
+      "@styles/*": ["src/styles/*"],
+      "@HOC/*": ["src/HOC/*"],
+      "@router/*": ["src/router/*"],
+      "@mock/*": ["src/mock/*"]
+    }
+  }
+}

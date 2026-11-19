@@ -1,0 +1,11 @@
+{
+  "title": "Settings",
+  "general": "General",
+  "profile": "Profile",
+  "notifications": "Notifications",
+  "team": "Team",
+  "pipelines": "Pipelines",
+  "integrations": "Integrations",
+  "pageSize": "Page Size",
+  "darkMode": "Dark Mode"
+}
